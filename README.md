@@ -5,7 +5,7 @@ I Like Money :)
 ---
 
 <div align="center">
-  <iframe 
+  <iframe> 
     src="https://kimmyjay726.github.io/my-gh-widgets/stock-ticker.html" 
     frameborder="0" 
     width="300" 
