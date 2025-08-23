@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a passionate developer with a keen interest in finance and technology. Check out this dynamic widget that displays stock information and provides AI-powered insights!
+I Like Money :)
 
 ---
 
