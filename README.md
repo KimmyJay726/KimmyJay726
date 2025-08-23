@@ -3,7 +3,6 @@
 I Like Money :)
 
 ---
-
 <div align="center">
   <iframe 
     src="https://kimmyjay726.github.io/my-gh-widgets/stock-ticker.html" 
@@ -13,7 +12,6 @@ I Like Money :)
     style="border-radius: 12px;">
   </iframe>
 </div>
-
 ---
 
 ### My Goofy GitHub Stats
