@@ -4,7 +4,7 @@ I Like Money :)
 
 ---
 
-<img src="https://media.giphy.com/media/l4KigU2845Ue8eLTO/giphy.gif" alt="Money Cat GIF" width="300" height="300">
+<img src="https://media.giphy.com/media/l4KigU2845Ue8eLTO/giphy.gif" alt="Free Money" width="300" height="300">
 
 ---
 
