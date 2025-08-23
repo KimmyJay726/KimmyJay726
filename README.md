@@ -6,11 +6,11 @@ I Like Money :)
 
 <div align="center">
 <iframe 
-    src="https://kimmyjay726.github.io/my-gh-widgets/stock-ticker.html" 
-    frameborder="0" 
-    width="300" 
-    height="450" 
-    style="border-radius: 12px;">
+src="https://kimmyjay726.github.io/my-gh-widgets/stock-ticker.html" 
+frameborder="0" 
+width="300" 
+height="450" 
+style="border-radius: 12px;">
 </iframe>
 </div>
 
