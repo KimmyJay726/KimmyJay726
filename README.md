@@ -1,20 +1,19 @@
 # Hi there 👋
 
-My Personal Website: (WIP)
+I Like Money :)
 
 ---
 
-About Me:
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI3OWg5YXNmczhza3dhYW82MnJxOWR3YjdjNTc3aGsyd3M2OWJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNvXkjC50ywBW/giphy.gif" alt="Money gif" width="300" height="300">
-
-I Like Money :)
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI3OWg5YXNmczhza3dhYW82MnJxOWR3YjdjNTc3aGsyd3M2OWJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNvXkjC50ywBW/giphy.gif" alt="Money gif" width="300" height="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdwcDZnMzAwdnJpZ2tkaTZzMXp6Y2RmOG0yMGkza251Y3Mycjc2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4RlmBiZTX4CD6/giphy.gif" alt="Another money gif" width="300" height="300">
+</div>
 
 ---
 
 ### My GitHub Stats
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimmyjay726&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyjay726&layout=compact&theme=radical" alt="Top Languages" />
 </div>
