@@ -10,6 +10,7 @@ Things I Like:
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI3OWg5YXNmczhza3dhYW82MnJxOWR3YjdjNTc3aGsyd3M2OWJhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNvXkjC50ywBW/giphy.gif" alt="Money gif" width="300" height="300">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdwcDZnMzAwdnJpZ2tkaTZzMXp6Y2RmOG0yMGkza251Y3Mycjc2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4RlmBiZTX4CD6/giphy.gif" alt="Another money gif" width="300" height="300">
 </Div>
+
 ---
 
 ### My GitHub Stats
