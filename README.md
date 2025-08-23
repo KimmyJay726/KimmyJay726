@@ -4,6 +4,7 @@ I Like Money :)
 
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -194,6 +195,7 @@ I Like Money :)
     </script>
 </body>
 </html>
+
 
 
 ---
