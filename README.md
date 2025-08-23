@@ -16,10 +16,10 @@ I Like Money :)
 
 ---
 
-### My Terrible GitHub Stats
+### My Goofy GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimmyJay726&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimmyjay726&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </div>
 
 ---
