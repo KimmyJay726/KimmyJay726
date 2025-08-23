@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My Homepage Website: (WIP)
+My Personal Website: (WIP)
 
 ---
 
