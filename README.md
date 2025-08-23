@@ -16,7 +16,7 @@ I Like Money :)
 
 ---
 
-### My GitHub Stats
+### My Terrible GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KimmyJay726&show_icons=true&theme=radical" alt="Your GitHub Stats" />
