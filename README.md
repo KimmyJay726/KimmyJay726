@@ -10,7 +10,7 @@ I Like Money :)
 
 ### My GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=kimmyjay726&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmyjay726&layout=compact&theme=radical" alt="Top Languages" />
 </div>
