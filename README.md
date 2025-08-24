@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋
+# Welcome to the Official KIMMYJ(ay)726 GITHUB Page 👋🔥🔥🔥🔥🔥😎📈📈📈🐐
 
 Things I Like:
 
